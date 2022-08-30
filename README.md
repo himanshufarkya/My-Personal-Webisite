@@ -1,2 +1,2 @@
 # My-Personal-Webisite
--📍 [Here is MY Personal Website Using HMTL] (https://himanshufarkya.github.io/My-Personal-Webisite/0)
+[📍Here is My Site..](https://mayanksamadhiya12345.github.io/My-Personal-Site-Using-HTML-/) <br />
